@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod]
+*.so
+.vscode
+*.egg
+*.egg-info
+dist
+build
+*.pyc
+
+# My configurations:
+db.ini
+deploy_key_rsa
